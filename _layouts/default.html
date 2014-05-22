@@ -43,5 +43,43 @@
     <footer>
       <p class="content">© Säiläklubi 2012-2014, Kuvat: Lehtikuva, Arttu Toivonen</p>
     </footer>
+
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script type="text/javascript">
+      (function() {
+        var height = $("body").height();
+        var windowHeight, scroll, updated = true;
+        $(window).scroll(scroll).resize(resize);
+
+        function scroll() {
+          scroll = $(window).scrollTop();
+          update();
+        }
+
+        function resize() {
+          windowHeight = $(window).height();
+          update();
+        }
+
+        function update() {
+          if(updated) {
+            updated = false;          
+            requestAnimationFrame(parallax);
+          }
+        }
+
+        function parallax() {
+          $(".header-image").each(function() {
+            var $t = $(this)
+            var pos = Math.max(0, Math.min(1, 1 - (scroll - this.offsetTop + windowHeight) / (windowHeight * 2) )); 
+            $(this).css({"background-position": "50% -" + Math.floor($t.height()*pos) + "px"})
+          });
+          updated = true;
+        }
+
+        scroll()
+        resize();
+      })();
+    </script>
   </body>
 </html>
