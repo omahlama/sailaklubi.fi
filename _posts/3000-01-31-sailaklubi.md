@@ -6,7 +6,7 @@ title: Säiläklubi
 Säiläklubi on Vantaalainen miekkailuseura, joka keskittyy Säilämiekkailuun. Valmennuksesta vastaa Vuoden 2014 SM-finalistit, Mika Roman ja Olli Mahlamäki. Seurassa toimii sekä aikuisia että nuoria.
 
 ### Päävalmentajana Mika Roman
-![Mika Roman]({{site.url}}/img/fiilis-mika.jpg)
+![Mika Roman](img/fiilis-mika.jpg)
 
 Mika on säilämiekkailun 11-kertainen miesten Suomen mestari ja kaksinkertainen Pohjoismaiden mestari. Hän toimii myös Suomen miekkailu- ja 5-otteluliiton säilämiekkailun valmentajakouluttajana. Suomen selkeästi kokeneinen säilävalmentaja tuo nyt taitonsa Säiläklubiin.
 
