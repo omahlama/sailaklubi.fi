@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valmentajat
-header_image: fencing.jpg
+header_image: header2.jpg
 ---
 
 ### Päävalmentaja Mika Roman
