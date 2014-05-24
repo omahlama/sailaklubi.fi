@@ -14,4 +14,6 @@ Urheilulajina säilämiekkailu vaatii monipuolisia ominaisuuksia. Puutteita jois
 
 Tule mukaan oppimaan säilän salat.
 
-<iframe width="960" height="540" src="//www.youtube.com/embed/Dr9q645buro?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe src="//www.youtube.com/embed/Dr9q645buro?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -48,7 +48,7 @@
     <script type="text/javascript">
       (function() {
         var height = $("body").height();
-        var windowHeight, scroll, updated = true;
+        var windowHeight, scroll, updated = true, enabled = false;
         $(window).scroll(scroll).resize(resize);
 
         function scroll() {
@@ -58,11 +58,18 @@
 
         function resize() {
           windowHeight = $(window).height();
-          update();
+          var enableNow = $(window).width() >= 480;
+          if(!enabled && enableNow) {
+            updated = true;
+            update();
+          } else if(enabled && !enableNow) {
+            $(".header-image").css({"background-position": "center"});            
+          }
+          enabled = enableNow;
         }
 
         function update() {
-          if(updated) {
+          if(updated && enabled) {
             updated = false;          
             requestAnimationFrame(parallax);
           }
@@ -72,7 +79,7 @@
           $(".header-image").each(function() {
             var $t = $(this)
             var pos = Math.max(0, Math.min(1, 1 - (scroll - this.offsetTop + windowHeight) / (windowHeight * 2) )); 
-            $(this).css({"background-position": "50% " + (100*pos) + "%"})
+            $(this).css({"background-position": "50% -" + Math.floor($t.height()*pos) + "px"})
           });
           updated = true;
         }
