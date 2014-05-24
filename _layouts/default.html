@@ -72,7 +72,7 @@
           $(".header-image").each(function() {
             var $t = $(this)
             var pos = Math.max(0, Math.min(1, 1 - (scroll - this.offsetTop + windowHeight) / (windowHeight * 2) )); 
-            $(this).css({"background-position": "50% -" + Math.floor($t.height()*pos) + "px"})
+            $(this).css({"background-position": "50% " + (100*pos) + "%"})
           });
           updated = true;
         }
