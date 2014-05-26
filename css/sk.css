@@ -8,10 +8,22 @@ html, body {
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px/24px;
+	color: #222;
 }
 
 h1 {
 	font-size: 400%;
+}
+
+a, a:visited {
+	color: #0000aa;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:hover, a:focus {
+	text-decoration: underline;
+	outline: none;
 }
 
 #header {
