@@ -9,7 +9,7 @@ Säiläklubin syyskauden harjoitukset alkavat maanantaina 8.9.2014. *Huom!* Paik
 
 ### Alkeisryhmä
 
-Säiläklubi järjestää 8.9.2014 alkaen alkeiskurssin 10-15 vuotiaille tytöille ja pojille. Kurssi järjestetään seuran harjoitusaikana, maanantaisin 18.30-20.00 ja torstaisin 19.00-20.30. Kurssilla opitaan säilämiekkailun perusteet: liikkuminen, lyönnit, väistöt ja ripostit. Tämän jälkeen siirrytään harjoittelemaan muiden samanikäisten kanssa - harjoitukset jatkuvat samaan kellonaikaan samassa paikassa.
+Säiläklubi järjestää 8.9.2014 alkaen alkeiskurssin 10-15 vuotiaille tytöille ja pojille. Ryhmässä on vielä tilaa, eli mukaan voi tulla, vaikka ei ihan kauden alkuun ehtinytkään. Kurssi järjestetään seuran harjoitusaikana, maanantaisin 18.30-20.00 ja torstaisin 19.00-20.30. Kurssilla opitaan säilämiekkailun perusteet: liikkuminen, lyönnit, väistöt ja ripostit. Tämän jälkeen siirrytään harjoittelemaan muiden samanikäisten kanssa - harjoitukset jatkuvat samaan kellonaikaan samassa paikassa.
 
 Kurssille tarvitset mukaan sisäliikuntavälineet ml. kengät sekä juomapullon, kaikki miekkailuvälineet kuuluvat kurssin hintaan. Kurssin hinta on 95e ja se sisältää koko syyskauden harjoittelun.
 
