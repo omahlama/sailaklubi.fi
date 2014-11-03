@@ -15,4 +15,4 @@ Kurssille tarvitset mukaan sisäliikuntavälineet ml. kengät sekä juomapullon,
 
 Myös aikuisten kurssi järjestetään, mikäli kiinnostuneita on riittävästi.
 
-Ilmoittautuminen ja lisätiedot: Olli Mahlamäki [olli.mahlamaki@gmail.com](mailto:olli.mahlamaki@gmail.com) tai 044 320 4841.
+Ilmoittautuminen ja lisätiedot: Olli Mahlamäki [olli.mahlamaki+sailaklubi@gmail.com](mailto:olli.mahlamaki+sailaklubi@gmail.com) tai 044 320 4841.
