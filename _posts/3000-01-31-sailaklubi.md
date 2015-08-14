@@ -9,10 +9,10 @@ Säiläklubin harjoitukset järjestetään Hakunilanrinteen koululla (Hiirakkoti
 
 ### Alkeisryhmä
 
-Seuraava alkeisryhmä aloittaa syksyllä 2015 koulujen alkaessa. Ennakkoilmoittautumisia otetaan vastaan jo nyt, mukaan pääsee ilmoittautumisjärjestyksessä. Kurssi järjestetään seuran harjoitusaikana, maanantaisin 18.30-20.00 ja torstaisin 19.00-20.30. Kurssilla opitaan säilämiekkailun perusteet: liikkuminen, lyönnit, väistöt ja ripostit. Tämän jälkeen siirrytään harjoittelemaan muiden samanikäisten kanssa - harjoitukset jatkuvat samaan kellonaikaan samassa paikassa.
+10-15 vuotiaiden tyttöjen ja poikien alkeisryhmä aloittaa torstaina 3.9.2015. Ilmoittaudu pian, mukaan pääsee ilmoittautumisjärjestyksessä!
 
-Kurssille tarvitset mukaan sisäliikuntavälineet ml. kengät sekä juomapullon, kaikki miekkailuvälineet kuuluvat kurssin hintaan. Kurssin hinta on 95e ja se sisältää koko kevätkauden harjoittelun.
+Kurssi järjestetään seuran harjoitusaikana, maanantaisin 18.30-20.00 ja torstaisin 19.00-20.30. Kurssilla opitaan säilämiekkailun perusteet: liikkuminen, lyönnit, väistöt ja ripostit. Tämän jälkeen siirrytään harjoittelemaan muiden samanikäisten kanssa - harjoitukset jatkuvat samaan kellonaikaan samassa paikassa.
 
-Myös aikuisten kurssi järjestetään, mikäli kiinnostuneita on riittävästi.
+Kurssille tarvitset mukaan sisäliikuntavälineet ml. kengät sekä juomapullon, kaikki miekkailuvälineet kuuluvat kurssin hintaan. Kurssin hinta on 95e ja se sisältää koko syyskauden harjoittelun.
 
 Ilmoittautuminen ja lisätiedot: Olli Mahlamäki [olli.mahlamaki+sailaklubi@gmail.com](mailto:olli.mahlamaki+sailaklubi@gmail.com) tai 044 320 4841.

@@ -12,4 +12,4 @@ Mika on säilämiekkailun 11-kertainen miesten Suomen mestari ja kaksinkertainen
 ### Olli Mahlamäki
 ![Olli Mahlamäki](img/fiilis-olli.jpg)
 
-Olli on säilämiekkailun 7-kertainen miesten Suomen mestari ja Pohjoismaiden mestari. Olli valmentaa Säiläklubissa nuorten ryhmää, vaikka kilpaileekin edelleen Tapanilan Erän nimissä.
+Olli on säilämiekkailun 8-kertainen miesten Suomen mestari ja Pohjoismaiden mestari. Olli valmentaa Säiläklubissa nuorten ryhmää, vaikka kilpaileekin edelleen Tapanilan Erän nimissä.
