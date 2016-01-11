@@ -15,4 +15,4 @@ Kurssi järjestetään seuran harjoitusaikana, maanantaisin 18.30-20.00 ja torst
 
 Kurssille tarvitset mukaan sisäliikuntavälineet ml. kengät sekä juomapullon, kaikki miekkailuvälineet kuuluvat kurssin hintaan. Kurssin hinta on 95e ja se sisältää koko kevätkauden harjoittelun.
 
-Ilmoittautuminen ja lisätiedot: Olli Mahlamäki [olli.mahlamaki+sailaklubi@gmail.com](mailto:olli.mahlamaki+sailaklubi@gmail.com) tai 044 320 4841.
+Ilmoittautuminen ja lisätiedot: Mika Roman [mikaroman@hotmail.com](mailto:mikaroman@hotmail.com) tai 0400 393 155.
