@@ -5,7 +5,7 @@ title: Säiläklubi
 
 Säiläklubi on Vantaalainen miekkailuseura, joka keskittyy Säilämiekkailuun. Valmennuksesta vastaa Vuoden 2014 SM-finalistit, Mika Roman ja Olli Mahlamäki. Seurassa toimii sekä aikuisia että nuoria.
 
-Säiläklubin harjoitukset järjestetään Hakunilanrinteen koululla (Hiirakkotie 18, 01200 Vantaa). Harjoitukset pidetään maanantaisin klo 18.30-20.00 ja torstaisin klo 19.00-20.30.
+Säiläklubin harjoitukset järjestetään Lehtikuusen koululla (Hiirakkotie 18, 01200 Vantaa). Harjoitukset pidetään maanantaisin klo 18.30-20.00 ja torstaisin klo 19.00-20.30.
 
 ### Alkeisryhmä
 
