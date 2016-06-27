@@ -29,17 +29,6 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
-
-    <script>
-        (function(h,o,t,j,a,r){
-            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-            h._hjSettings={hjid:85621,hjsv:5};
-            a=o.getElementsByTagName('head')[0];
-            r=o.createElement('script');r.async=1;
-            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-    </script>
   </head>
   <body>
     <div id="header">
@@ -74,14 +63,14 @@
             updated = true;
             update();
           } else if(enabled && !enableNow) {
-            $(".header-image").css({"background-position": "center"});            
+            $(".header-image").css({"background-position": "center"});
           }
           enabled = enableNow;
         }
 
         function update() {
           if(updated && enabled) {
-            updated = false;          
+            updated = false;
             requestAnimationFrame(parallax);
           }
         }
@@ -89,7 +78,7 @@
         function parallax() {
           $(".header-image").each(function() {
             var $t = $(this)
-            var pos = Math.max(0, Math.min(1, 1 - (scroll - this.offsetTop + windowHeight) / (windowHeight * 2) )); 
+            var pos = Math.max(0, Math.min(1, 1 - (scroll - this.offsetTop + windowHeight) / (windowHeight * 2) ));
             $(this).css({"background-position": "50% -" + Math.floor($t.height()*pos) + "px"})
           });
           updated = true;
