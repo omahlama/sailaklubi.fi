@@ -15,8 +15,22 @@
     <meta property="og:site_name" content="Säiläklubi"/>
     <meta property="og:type" content="website"/>
     <meta property="og:description" content="Haluatko miekkailijaksi? Miekkailua Vantaalla 10-15v tytöille ja pojille. Ilmoittaudu mukaan!">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/sk.css">
+    <style>
+      {% include sk.css %}
+    </style>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Open+Sans:300:latin,latin-ext' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
 
     <script type="text/javascript">
       var _gaq = _gaq || [];

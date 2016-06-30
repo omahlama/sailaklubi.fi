@@ -1,14 +1,19 @@
 * {
 	box-sizing: border-box;
 	font-weight: 300;
+	line-height: 150%;
 }
 
 html, body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px/24px;
+	font-family: sans-serif;
+	font-size: 16px;
 	color: #222;
+}
+
+html.wf-active, html.wf-active body {
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
